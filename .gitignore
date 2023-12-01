@@ -1,2 +1,4 @@
+simple_latex_generator.egg-info
 venv
 .idea
+__pycache__

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simple_latex_generator"
+version = "0.0.1"
+authors = [
+  { name="Mark Gurianov", email="mark.itmo@mail.ru" },
+]
+description = "Latex Generator As a HW for MHS Coursev"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Mark1708/python-itmo-mhs-course"
+Issues = "https://github.com/Mark1708/python-itmo-mhs-course/issues"

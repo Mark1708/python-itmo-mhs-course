@@ -1,0 +1,1 @@
+./hw_2/lib/dist/simple_latex_generator-0.0.1-py3-none-any.whl
